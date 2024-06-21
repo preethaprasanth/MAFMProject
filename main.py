@@ -1,0 +1,2 @@
+from div import *
+Div()
